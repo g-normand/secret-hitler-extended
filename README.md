@@ -60,6 +60,7 @@ print & play by
  - Based on the original print & play off 
      [secrethitler.com](https://www.secrethitler.com/)
    ([CC BY–NC–SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+ - Using color design by panoramix87 (found on Reddit : https://www.reddit.com/r/boardgames/comments/3yepx7/i_made_a_print_and_play_secret_hitler )
  - Envelope template inspired by 
      [Kreate-a-lope®](https://www.kickstarter.com/projects/388011235/kreate-a-lope-the-fastest-envelope-maker-on-the-pl)
    by Nick Romer.
